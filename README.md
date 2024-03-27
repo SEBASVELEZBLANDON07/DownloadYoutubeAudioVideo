@@ -16,6 +16,8 @@ Esta es una extensión de Chrome que te permite descargar videos y audios de You
 │   │   ├── [manifest.json](ExtencionChrome/MediaMasterExtension/manifest.json)<br>
 │   │   └── [styles.css](ExtencionChrome/MediaMasterExtension/styles.css)<br>
 │   └── [README.md](ExtencionChrome/README.md)<br>
+├──  **music**<br>
+├──  **video**<br>
 └── [README.md](README.md)<br>
 
 
