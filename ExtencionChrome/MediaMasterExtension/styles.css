@@ -1,0 +1,25 @@
+/* estilos de los botton */
+#downloadButtonAudio, #downloadButtonVideo {
+    position: fixed;
+    left: 20px; 
+    z-index: 9999;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 5px 8px; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px; 
+}
+
+#downloadButtonAudio:hover, #downloadButtonVideo:hover {
+    background-color: #00fd37;
+}
+
+#downloadButtonVideo{
+    top: 60px;
+}
+
+#downloadButtonAudio{
+    top: 80px;
+}
